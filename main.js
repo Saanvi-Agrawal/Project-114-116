@@ -2,7 +2,7 @@ nosex=0;
 nosey=0;
 
 function preload(){
-    moustache=loadImage('https://i.postimg.cc/RFzHY6SB/103-1035247-mustache-png-mooch-wale-transparent-png-removebg-preview.png')
+    moustache=loadImage('https://i.postimg.cc/Gm5NvrcY/download-removebg-preview.png')
 }
 
 function setup(){
